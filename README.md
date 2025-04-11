@@ -50,13 +50,6 @@ VoIPBIN is composed of microservices designed to work together or independently:
 - `monorepo`: backend service monorepo
 - `voipbin-go` — Official Go SDK for developers
 
-## 📚 Documentation
-
-Full documentation will be available soon at:
-
-👉 [https://voipbin.net](https://voipbin.net)
-
-
 ## 🛠️ How to Get Started
 
 > ⚠️ VoIPbin is not a plug-and-play application.
