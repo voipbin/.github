@@ -15,6 +15,10 @@ __     __   ___ ____  ____  _
 
 > *"CPaaS for all."*
 
+## 📺 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/9VKu_QMFzko/0.jpg)](https://youtu.be/9VKu_QMFzko)
+
 ## 🧩 Live Services
 - 🌍 [Project Site](http://voipbin.net/) — Landing page for VoIPbin
 - 🔧 [Admin Console](https://admin.voipbin.net/) — Manage everything visually
