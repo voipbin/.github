@@ -16,12 +16,11 @@ __     __   ___ ____  ____  _
 > *"CPaaS for all."*
 
 ## 📺 Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/9VKu_QMFzko/0.jpg)](https://youtu.be/9VKu_QMFzko)
+[![Watch the video](./voipbin-demo_flow_build.gif)](https://youtu.be/9VKu_QMFzko)
 
 ## 🧩 Live Services
 - 🌍 [Project Site](http://voipbin.net/) — Landing page for VoIPbin
-- 🔧 [Admin Console](https://admin.voipbin.net/) — Manage everything visually
+- 🔧 [Admin Console](https://admin.voipbin.net/) — Admon console for voipbin(Demo account is ready)
 - 📞 [Agent](https://talk.voipbin.net/) — Simple web application demo for agent 
 - 🎥 [Meeting](https://meet.voipbin.net/) — Simple web application demo for video/voice conference meeting 
 
@@ -113,6 +112,11 @@ $ git clone https://github.com/voipbin/voipbin.git
 $ cd voipbin
 # Setup steps coming soon
 ```
+
+## 📬 Contact
+For questions, support, or inquiries, feel free to reach out:
+
+**Email:** sungtae@voipbin.net
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](../LICENSE) for more info.
