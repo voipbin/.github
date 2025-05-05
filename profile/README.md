@@ -20,7 +20,7 @@ __     __   ___ ____  ____  _
 
 ## 🧩 Live Services
 - 🌍 [Project Site](http://voipbin.net/) — Landing page for VoIPbin
-- 🔧 [Admin Console](https://admin.voipbin.net/) — Admon console for voipbin(Demo account is ready)
+- 🔧 [Admin Console](https://admin.voipbin.net/) — Admin console for voipbin(Demo account is ready)
 - 📞 [Agent](https://talk.voipbin.net/) — Simple web application demo for agent 
 - 🎥 [Meeting](https://meet.voipbin.net/) — Simple web application demo for video/voice conference meeting 
 
@@ -50,16 +50,14 @@ Detailed documentation is available here:
 
 VoIPBIN is composed of microservices designed to work together or independently:
 
-- `monorepo`: backend service monorepo
-- `voipbin-go` — Official Go SDK for developers
+* `monorepo`(https://github.com/voipbin/monorepo): Monorepository for the backend services.
+* `voipbin-go`(https://github.com/voipbin/voipbin-go): voipbin SDK for golang.
 
 ## 🛠️ How to Get Started
 
 > ⚠️ VoIPbin is not a plug-and-play application.
 > 
 > It's a platform composed of multiple microservices, SIP/media infrastructure (e.g., Asterisk, RTPEngine), Kubernetes-based deployments, and cloud integrations (e.g., Twilio, OpenAI). You don't just "run it" — you assemble and deploy it based on your architecture.
-
-This monorepo handles only part of voipbin services.
 
 ![VoIPBin Architecture](architecture_overview_all.png)
 
@@ -77,25 +75,10 @@ VoIPbin is composed of multiple services that run independently and communicate 
 
 We recommend reading the platform architecture guide (coming soon) before setup.
 
-### Clone the Repo
+### Relevant repositories
 
-```
-   $ git clone https://github.com/your-org/voipbin.git
-   $ cd voipbin
-```
-
-### Configure Your Secrets
-
-```
-export CC_AUTHTOKEN_OPENAI=xxx
-export CC_TWILIO_TOKEN=xxx
-export CC_SSL_CERT_API_BASE64=xxx
-...
-```
-Check each service's README (or environment loader) for what it needs.
-
-### Deploy to Kubernetes
-You'll need a Kubernetes manifest or Helm chart per service. For now, these are maintained privately or in internal repositories — contact us if you'd like access to deployment blueprints.
+* monorepo(https://github.com/voipbin/monorepo): Monorepository for the backend services.
+* voipbin-go(https://github.com/voipbin/voipbin-go): voipbin SDK for golang.
 
 ## 🤝 Contributing
 
