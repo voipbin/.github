@@ -75,26 +75,11 @@ VoIPbin is composed of multiple services that run independently and communicate 
 
 We recommend reading the platform architecture guide (coming soon) before setup.
 
-### Relevant repositories
-
-* monorepo(https://github.com/voipbin/monorepo): Monorepository for the backend services.
-* voipbin-go(https://github.com/voipbin/voipbin-go): voipbin SDK for golang.
-
 ## 🤝 Contributing
 
 We welcome contributions! Please open an issue or submit a pull request.
 
 For larger changes, create a discussion or proposal beforehand.
-
-## 🧪 Development
-
-To get started locally:
-
-```bash
-$ git clone https://github.com/voipbin/voipbin.git
-$ cd voipbin
-# Setup steps coming soon
-```
 
 ## 📬 Contact
 For questions, support, or inquiries, feel free to reach out:
