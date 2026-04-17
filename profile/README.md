@@ -15,9 +15,6 @@ __     __   ___ ____  ____  _
 
 > *"CPaaS for all."*
 
-## 📺 Demo Video
-[![Watch the video](./voipbin-demo_flow_build.gif)](https://youtu.be/9VKu_QMFzko)
-
 ## 🧩 Live Services
 - 🌍 [Project Site](http://voipbin.net/) — Landing page for VoIPbin
 - 🔧 [Admin Console](https://admin.voipbin.net/) — Admin console for voipbin(Demo account is ready)
