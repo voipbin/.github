@@ -81,7 +81,7 @@ For larger changes, create a discussion or proposal beforehand.
 ## 📬 Contact
 For questions, support, or inquiries, feel free to reach out:
 
-**Email:** sungtae@voipbin.net
+**Email:** support@voipbin.net
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](../LICENSE) for more info.
